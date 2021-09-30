@@ -1,0 +1,15 @@
+body {
+  background-color: aqua;
+  font-size: 25px;
+  color: black;
+  position: absolute;
+  font-family:'Raleway', sans-serif;
+    border: solid cadetbluefont-family; 
+}
+.background {
+  text-align: center;
+  background-color: cadetblue;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
